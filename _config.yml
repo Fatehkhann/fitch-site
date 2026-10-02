@@ -1,0 +1,11 @@
+title: Fitch
+description: Privacy policy and support for the Fitch running and cycling app
+baseurl: "/fitch-site"
+url: "https://fatehkhann.github.io"
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+exclude:
+  - README.md

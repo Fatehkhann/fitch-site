@@ -43,6 +43,12 @@ Open the Races tab, pick a saved run or ride, and choose to race it. Start near 
 ### What are virtual companions?
 Leo holds a steady speed you set. Maya targets a little above your own recent average in the selected sport. Max starts fast and surges in waves. Pick one in Settings, then tap Add companion during a recording. All three run on your device and share your workout clock, so pausing freezes the companion too.
 
+### How does Fitch match my routes?
+When you record a run or ride over the same ground as an earlier one, in the same direction and over about the same distance, Fitch groups them under **Your routes** in the Races tab. Matching compares the shapes of the routes on your iPhone; nothing is uploaded. Each route shows your best, latest and average time, a progress chart and a **Race your best** button. If two efforts are not grouped, they probably differ by more than about 15 percent in distance, start or end more than 150 metres apart, or go in opposite directions. Demo efforts group only with other demo efforts.
+
+### What is the heatmap?
+The heatmap on the Home tab layers every real route of the selected sport on one map. Where routes overlap the line gets brighter, so the places you go most stand out. Demo activities are not included. It is drawn on your device from your saved activities.
+
 ### Why does my distance or pace differ slightly from another app or a race result?
 Fitch uses GPS estimates. It accepts only accurate fixes, filters stationary noise, and breaks the route line during pauses and signal gaps rather than inventing distance, so totals can differ from other apps or from certified race timing.
 
